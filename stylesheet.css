@@ -15,7 +15,7 @@ hr {
     margin: 2rem 0rem;
 }
 
-.margin-md{
+.margin-md {
     margin: 2rem;
 }
 
@@ -23,7 +23,7 @@ hr {
     padding: 0rem 1rem;
 }
 
-.container-center{
+.container-center {
     max-width: 600px;
     margin: auto;
 }
@@ -52,8 +52,8 @@ max-width: 140px;
 margin: 1rem 1rem 1rem 0rem;
 }
 
-.list-on-bullet {
-    display: inline;
+.list-non-bullet {
+    list-style: none;
     padding: 0rem 0.5rem;
 }
 
@@ -118,6 +118,7 @@ margin: 1rem 1rem 1rem 0rem;
 .footer {
     background-color: var(--primary-color);
     padding: 4rem 1rem;
+    text-align: center;
     color: white;
     border-top-right-radius: 1rem;
 }
