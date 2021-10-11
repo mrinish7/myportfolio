@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@1,500&display=swap');
 
 :root {
     --primary-color: #4338CA;
@@ -142,4 +143,13 @@ margin: 1rem 1rem 1rem 0rem;
 
 .showcase-blog {
     padding-bottom: 6rem;
+}
+
+.first-blog {
+ font-family: 'Josefin Sans', sans-serif;
+ text-align: center;
+ padding-left: 400px;
+ padding-right: 400px;
+ margin: 50px;
+ font-size: large;   
 }
